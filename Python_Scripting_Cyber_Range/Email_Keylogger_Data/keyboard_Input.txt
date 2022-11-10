@@ -1,0 +1,19 @@
+tesstKey.ctrlcls
+cat keyboard *SHIFT*  *SHIFT* _ *SHIFT* InKey.tab
+Key.upKey.upKey.up
+test
+this is a test
+caitlin
+keithcat ballou *SHIFT* TestKey.ctrlcvi  *SHIFT* SendKey.tab
+Key.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.rightKey.rightKey.rightKey.rightKey.rightKey.upKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.righti *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE* f *SHIFT* """ *SHIFT* {form *SHIFT* _send *SHIFT* }"" *SHIFT* "Key.esc *SHIFT* :wq
+Key.upKey.up
+test *SHIFT* Caitlin *SHIFT* Keith *SHIFT* Cat *SHIFT*   *SHIFT* BallouKey.ctrlcvi  *SHIFT* SendKey.tab
+Key.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.downKey.downKey.downKey.downKey.downKey.downKey.upKey.end
+iKey.upKey.end
+import smtplib
+from email.message import  *SHIFT* Email *SHIFT* MEssage *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE* essage
+import config
+Key.esc *SHIFT* :wq
+Key.upKey.up
+Key.ctrlcKey.ctrlzf *BACKSPACE* git status
+git add ./
