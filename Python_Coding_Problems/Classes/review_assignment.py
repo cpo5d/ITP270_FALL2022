@@ -20,6 +20,11 @@ class Student:
       total += grade.score
     return total/len(self.grades)
 
+  def print_attendance(self):
+    print(self.name +"'s attendance:")
+    for key, value in self.attendance.items():
+      print(str(key)+ ": " + str(value))
+
 roger = Student("Roger van der Weyden", 10, {date(2022,11,15):True, date(2022,11,16):False, date(2022,11,17):True})
 sandro = Student("Sandro Botticelli", 12, {date(2022,11,15):True, date(2022,11,16):True, date(2022,11,17):True})
 pieter = Student("Pieter Bruegel the Elder", 8, {date(2022,11,15):False, date(2022,11,16):False, date(2022,11,17):False})
@@ -36,8 +41,9 @@ class Grade:
     else: 
       return False
 
+pieter.print_attendance()
 pieter.add_grade(Grade(100))
 pieter.add_grade(Grade(90))
 pieter.add_grade(Grade(85))
 pieter.add_grade(Grade(97))
-print(pieter.get_average())
+print("Pieter's Average is: " + str(pieter.get_average()))
