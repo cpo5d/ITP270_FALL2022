@@ -35,8 +35,8 @@ class Grade:
   def __init__(self, score):
     self.score = score
 
-  def is_passing(score):
-    if score >= self.minimum_passing:
+  def is_passing(self):
+    if self.score >= self.minimum_passing:
       return True
     else: 
       return False
