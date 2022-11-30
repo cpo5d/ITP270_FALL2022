@@ -1,0 +1,100 @@
+ *SHIFT* Test for the last time
+Key.ctrlz
+ *SHIFT* Testing 123
+Key.ctrlcvi keyboardKey.tab
+
+ls
+cd /var/www/html
+
+dev3rd25 *SHIFT* !
+sudo mv  *SHIFT* DVWA dvwa
+chmod - *SHIFT* R 777 dvqa/ *BACKSPACE*  *BACKSPACE*  *BACKSPACE* q *BACKSPACE* wa/
+cd dvqa/configKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.left *BACKSPACE* w
+
+sudo nano config.inc.php
+Key.ctrlo
+Key.ctrlx
+sudo service mysql start
+systemctl status mysql
+
+qsudo mysql -u reo *BACKSPACE*  *BACKSPACE* oot -p
+
+create user ""dvwa"" *SHIFT* @""127.0.0.1"" indentifiedKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.left *BACKSPACE* Key.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.right by ""p *SHIFT* @ssw0rd"";
+grant all privileges on dvwa. *SHIFT* * to ""dvwa"" *SHIFT* @""127.0.0.1"" identified by ""p *SHIFT* @ssw0rd"";
+sudo apt update
+;
+q *BACKSPACE* exit
+sudo apt update
+
+Key.left
+
+
+sudo apt update
+php --version
+ *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE* ls /etc/php
+s *BACKSPACE* cd /etc/php/8.1/apache2
+sudo nano phpKey.tab
+Key.downKey.downKey.downKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.right *BACKSPACE*  *BACKSPACE* nKey.ctrlo
+Key.ctrlxsudo service apache2 start
+systemctl status apache2
+http *SHIFT* ://127.0.0.1/dvwa
+setup.php
+adminKey.tabpassword
+Key.escKey.esc
+
+
+
+Key.escKey.escqcd / *SHIFT* U *BACKSPACE* home. *BACKSPACE* /caitlin/ *SHIFT* DestpKey.tab *BACKSPACE* Key.tab *BACKSPACE* Key.tab *SHIFT* ITNKey.tab *BACKSPACE*  *SHIFT* PKey.tab *SHIFT* Python *SHIFT* _ *SHIFT* SKey.tab *SHIFT* RmoKey.tab *BACKSPACE*  *BACKSPACE* eKey.tabmoteKey.tab *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *SHIFT* KeylogKey.tab
+ls
+vi  *SHIFT* Comments *SHIFT* Request.py
+ *SHIFT* # *SHIFT* !/usr/bin/env python3 *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE* i *SHIFT* # *SHIFT* !/usr/bin/env python3
+
+import requests
+
+cookies =  *SHIFT* {}Key.left""""Key.ctrlcKey.leftKey.leftKey.right *BACKSPACE* Key.rightKey.right *BACKSPACE* Key.rightiKey.right *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *SHIFT* PHPSESSID"" *SHIFT* :""j1p183dj1i4fc1989vcjc92ugr"", ""security"" *SHIFT* :""impossible"" *SHIFT* }Key.right
+
+url=""http *SHIFT* ://127.0.0.1/dvwa/vulnerabilities/xss *SHIFT* _s""
+form *SHIFT* _input = open *SHIFT* ( *SHIFT* "keyboard *SHIFT* _ *SHIFT* Input.txt *SHIFT* " *SHIFT* )
+form *SHIFT* _send = form.input.read *SHIFT* ()
+form.data =  *SHIFT* {txt *SHIFT* Name *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE* ""txt *SHIFT* Name"" *SHIFT* :"" *SHIFT* Test  *SHIFT* IT"", ""mxt *SHIFT* Message"" *SHIFT* :f *SHIFT*  *SHIFT*  *SHIFT* """ *SHIFT* {form *SHIFT* _send *SHIFT* }"" *SHIFT* ", ""btn *SHIFT* Sign *SHIFT* " *SHIFT* :"" *SHIFT* Sign *SHIFT* + *SHIFT* Guestbook *SHIFT* "Key.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.rightKey.rightKey.left *BACKSPACE*  *SHIFT* "Key.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.right *BACKSPACE*  *SHIFT* "Key.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.right *SHIFT* }
+r = requests.port *SHIFT* (url, cookies=cookies, data=form *SHIFT* _data *SHIFT* )Key.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.upKey.left *BACKSPACE*  *SHIFT* _Key.downKey.esc *SHIFT* :wq
+htpo *BACKSPACE*  *BACKSPACE* op
+ *SHIFT* y
+ *SHIFT* H *BACKSPACE* htop
+Key.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.downKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.upKey.f9Key.upKey.down
+this is a test tada
+Key.ctrlcvi keyKey.tab *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *SHIFT* SeKey.tab *SHIFT* CKey.tab
+Key.downKey.downKey.downKey.downKey.downKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.righti *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE* 127.0.0.1/dvwa/vulnerabilities/xss *SHIFT* _sKey.esc *SHIFT* :wq
+Key.upKey.upKey.downKey.down./ *SHIFT* SeKey.tab *SHIFT* CKey.tab
+this is a test tada *SHIFT* !Key.ctrlcgit status
+git add  *SHIFT* ConnKey.tab *BACKSPACE*  *BACKSPACE* mmKey.tab
+git add  *SHIFT* Send *SHIFT* KeylogKey.tab *SHIFT* ComKey.tab
+git add anythinKey.tab
+git add keyboardKey.tab
+git add keyloggerKey.tab.Key.tab
+git staa *BACKSPACE* tus
+git commit -m  *SHIFT* Adding the second half of the  *SHIFT* Keylogger  *SHIFT* Remote project *SHIFT* : *BACKSPACE*  *SHIFT* "Key.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.left *SHIFT* "
+git config --global user.email  *SHIFT* "caitlin.odwyer *SHIFT* @gmail.com *SHIFT* "
+git config --global user.name cpo5d
+Key.upKey.upKey.up
+git push origim mainKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.right *BACKSPACE* n
+cpo5d
+
+git pull
+git config pull.rebase true
+git pull
+git status
+git rm key *SHIFT* L *BACKSPACE* logger *SHIFT* Remote *SHIFT* Test.py
+git add keyboKey.tab
+git add  *SHIFT* Send *SHIFT* KeKey.tab
+git status
+git add / *SHIFT* EmailKey.tab *SHIFT* _ *SHIFT* KeyKey.tablogger *SHIFT* _data/keylogger *SHIFT* Remote.py
+Key.upKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.left *BACKSPACE*  *SHIFT* D
+git status
+git add keyboard *SHIFT* _Key.tab
+git add / *SHIFT* Email/ *BACKSPACE* Key.tab *SHIFT* _ *SHIFT* Keylogger *SHIFT* _data *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *SHIFT* Data/ *SHIFT* *
+Key.up *BACKSPACE*  *BACKSPACE* Key.right *BACKSPACE* 
+Key.up *BACKSPACE* 
+Key.upKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.left..
+git status
+git add keyboard *SHIFT* _ *SHIFT* InKey.tab
