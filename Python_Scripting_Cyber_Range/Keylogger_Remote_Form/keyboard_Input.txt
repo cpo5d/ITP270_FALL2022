@@ -71,3 +71,30 @@ git add  *SHIFT* ConnKey.tab *BACKSPACE*  *BACKSPACE* mmKey.tab
 git add  *SHIFT* Send *SHIFT* KeylogKey.tab *SHIFT* ComKey.tab
 git add anythinKey.tab
 git add keyboardKey.tab
+git add keyloggerKey.tab.Key.tab
+git staa *BACKSPACE* tus
+git commit -m  *SHIFT* Adding the second half of the  *SHIFT* Keylogger  *SHIFT* Remote project *SHIFT* : *BACKSPACE*  *SHIFT* "Key.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.left *SHIFT* "
+git config --global user.email  *SHIFT* "caitlin.odwyer *SHIFT* @gmail.com *SHIFT* "
+git config --global user.name cpo5d
+Key.upKey.upKey.up
+git push origim mainKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.right *BACKSPACE* n
+cpo5d
+
+git pull
+git config pull.rebase true
+git pull
+git status
+git rm key *SHIFT* L *BACKSPACE* logger *SHIFT* Remote *SHIFT* Test.py
+git add keyboKey.tab
+git add  *SHIFT* Send *SHIFT* KeKey.tab
+git status
+git add / *SHIFT* EmailKey.tab *SHIFT* _ *SHIFT* KeyKey.tablogger *SHIFT* _data/keylogger *SHIFT* Remote.py
+Key.upKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.left *BACKSPACE*  *SHIFT* D
+git status
+git add keyboard *SHIFT* _Key.tab
+git add / *SHIFT* Email/ *BACKSPACE* Key.tab *SHIFT* _ *SHIFT* Keylogger *SHIFT* _data *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *BACKSPACE*  *SHIFT* Data/ *SHIFT* *
+Key.up *BACKSPACE*  *BACKSPACE* Key.right *BACKSPACE* 
+Key.up *BACKSPACE* 
+Key.upKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.left..
+git status
+git add keyboard *SHIFT* _ *SHIFT* InKey.tab

